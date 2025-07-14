@@ -85,12 +85,13 @@ namespace Ustagram.API
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("AllowVercel",
-                    policy => policy
-                        .WithOrigins("https://ustagram.vercel.app")
-                        .AllowAnyHeader()
-                        .AllowAnyMethod());
+                options.AddPolicy("AllowAnyFrontend", policy =>
+                    policy
+                        .AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader());
             });
+
 
             var app = builder.Build();
 
@@ -100,7 +101,7 @@ namespace Ustagram.API
                 app.UseSwaggerUI();
             }
             
-            app.UseCors("AllowVercel"); 
+            app.UseCors("AllowAnyFrontend");
             app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseAuthentication();
