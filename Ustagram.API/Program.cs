@@ -85,13 +85,11 @@ namespace Ustagram.API
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("AllowAngularApp", policy =>
-                {
-                    policy.WithOrigins("http://localhost:4200")
-                          .AllowAnyHeader()
-                          .AllowAnyMethod()
-                          .AllowCredentials();
-                });
+                options.AddPolicy("AllowVercel",
+                    policy => policy
+                        .WithOrigins("https://ustagram.vercel.app")
+                        .AllowAnyHeader()
+                        .AllowAnyMethod());
             });
 
             var app = builder.Build();
@@ -102,14 +100,16 @@ namespace Ustagram.API
                 app.UseSwaggerUI();
             }
             
-            app.MapHub<CommentHub>("/commentHub");
-            app.MapHub<NotificationHub>("/notificationHub");
-            app.UseCors("AllowAngularApp");
+            app.UseCors("AllowVercel"); 
             app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
+
+            app.MapHub<CommentHub>("/commentHub");
+            app.MapHub<NotificationHub>("/notificationHub");
             app.MapControllers();
+
             app.Run();
         }
     }
