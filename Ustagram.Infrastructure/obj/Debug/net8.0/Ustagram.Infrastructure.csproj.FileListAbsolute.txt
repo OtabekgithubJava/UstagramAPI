@@ -1,0 +1,53 @@
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.deps.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.runtimeconfig.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.6EE12FBE.Up2Date
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/refint/Ustagram.Infrastructure.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.genruntimeconfig.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/ref/Ustagram.Infrastructure.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.deps.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.runtimeconfig.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfo.cs
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.sourcelink.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.6EE12FBE.Up2Date
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/refint/Ustagram.Infrastructure.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.genruntimeconfig.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.Infrastructure/obj/Debug/net8.0/ref/Ustagram.Infrastructure.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.deps.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.runtimeconfig.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/bin/Debug/net8.0/Ustagram.Domain.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.AssemblyReference.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfoInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.AssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.sourcelink.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.6EE12FBE.Up2Date
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/refint/Ustagram.Infrastructure.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/Ustagram.Infrastructure.genruntimeconfig.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.Infrastructure/obj/Debug/net8.0/ref/Ustagram.Infrastructure.dll

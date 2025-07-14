@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/wwwroot/Uploads/dfcecad6-3460-42f5-99ad-bca4de4c5b73_2025-06-10 16.37.03.jpg",
+      "PackagePath": "staticwebassets/Uploads/dfcecad6-3460-42f5-99ad-bca4de4c5b73_2025-06-10 16.37.03.jpg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Ustagram.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Ustagram.API.props",
+      "PackagePath": "build\\Ustagram.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ustagram.API.props",
+      "PackagePath": "buildMultiTargeting\\Ustagram.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ustagram.API.props",
+      "PackagePath": "buildTransitive\\Ustagram.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

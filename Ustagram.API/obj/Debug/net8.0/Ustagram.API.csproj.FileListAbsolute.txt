@@ -1,0 +1,447 @@
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/appsettings.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.deps.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.runtimeconfig.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Humanizer.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Npgsql.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Text.Json.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.AssemblyReference.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfoInputs.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfo.cs
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.Ustagram.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Ustagram.API.props
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ustagram.API.props
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ustagram.API.props
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/scopedcss/bundle/Ustagram.API.styles.css
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.F98D387A.Up2Date
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/refint/Ustagram.API.dll
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.pdb
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.genruntimeconfig.cache
+/Users/otabek_coding/Desktop/EYUF/UstagramBackend/Ustagram.API/obj/Debug/net8.0/ref/Ustagram.API.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/appsettings.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.API.exe
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.API.deps.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.API.runtimeconfig.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.API.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.API.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Humanizer.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Npgsql.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.AssemblyReference.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfoInputs.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfo.cs
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.CoreCompileInputs.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.sourcelink.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.Ustagram.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Ustagram.API.props
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ustagram.API.props
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ustagram.API.props
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/scopedcss/bundle/Ustagram.API.styles.css
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.F98D387A.Up2Date
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/refint/Ustagram.API.dll
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.pdb
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/Ustagram.API.genruntimeconfig.cache
+C:/Users/user/RiderProjects/Ustagram/Ustagram.API/obj/Debug/net8.0/ref/Ustagram.API.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/appsettings.Development.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/appsettings.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.staticwebassets.runtime.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.deps.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.runtimeconfig.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.API.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Humanizer.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Binder.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.CommandLine.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Hosting.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Configuration.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Console.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.Debug.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventLog.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Logging.EventSource.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Npgsql.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.CodeDom.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Reflection.Metadata.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.Text.Json.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Application.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Infrastructure.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Ustagram.Domain.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.AssemblyReference.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfoInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.AssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.csproj.CoreCompileInputs.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.sourcelink.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.build.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.development.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.Ustagram.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Ustagram.API.props
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Ustagram.API.props
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Ustagram.API.props
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/scopedcss/bundle/Ustagram.API.styles.css
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.F98D387A.Up2Date
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/refint/Ustagram.API.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.pdb
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/Ustagram.API.genruntimeconfig.cache
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/obj/Debug/net8.0/ref/Ustagram.API.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/AutoMapper.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.Bcl.Memory.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/BCrypt.Net-Core.dll
+/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/bin/Debug/net8.0/Newtonsoft.Json.dll

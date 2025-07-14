@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "nije/fdM4DRam+hCtRl1sIkRCDxBnnEwnDhmDkm27AQ=",
+  "Source": "Ustagram.API",
+  "BasePath": "_content/Ustagram.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ustagram.API/wwwroot",
+      "Source": "Ustagram.API",
+      "ContentRoot": "/Users/otabek_coding/C# codes/RiderProjects/UstagramBackend/Ustagram.API/wwwroot/",
+      "BasePath": "_content/Ustagram.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
