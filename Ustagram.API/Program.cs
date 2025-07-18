@@ -88,8 +88,11 @@ namespace Ustagram.API
             {
                 options.AddPolicy("ProductionPolicy", policy =>
                     policy.WithOrigins("https://ustagram.vercel.app")
+                        .SetIsOriginAllowed(_ => true)
                         .AllowAnyMethod()
-                        .AllowAnyHeader());
+                        .AllowAnyHeader()
+                        .AllowCredentials()
+                );
             });
 
 
@@ -119,6 +122,7 @@ namespace Ustagram.API
             
             app.UseCors("ProductionPolicy");
             app.UseStaticFiles();
+            app.UseRouting();
             app.UseHttpsRedirection();
             app.UseAuthentication();
             app.UseAuthorization();
