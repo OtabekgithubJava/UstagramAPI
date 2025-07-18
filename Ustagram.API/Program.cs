@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
+using Microsoft.AspNetCore.Diagnostics;
 using Swashbuckle.AspNetCore.SwaggerGen;
 using Ustagram.Application;
 using Ustagram.Application.Services;
@@ -85,15 +86,30 @@ namespace Ustagram.API
 
             builder.Services.AddCors(options =>
             {
-                options.AddPolicy("AllowAnyFrontend", policy =>
-                    policy
-                        .AllowAnyOrigin()
+                options.AddPolicy("ProductionPolicy", policy =>
+                    policy.WithOrigins("https://ustagram.vercel.app")
                         .AllowAnyMethod()
                         .AllowAnyHeader());
             });
 
 
             var app = builder.Build();
+            
+            app.UseExceptionHandler("/error");
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+            
+            app.UseExceptionHandler(errorApp =>
+            {
+                errorApp.Run(async context =>
+                {
+                    context.Response.ContentType = "text/plain";
+                    var exceptionHandler = context.Features.Get<IExceptionHandlerFeature>();
+                    await context.Response.WriteAsync($"Error: {exceptionHandler?.Error.Message}\n\n{exceptionHandler?.Error.StackTrace}");
+                });
+            });
 
             if (app.Environment.IsDevelopment())
             {
@@ -101,7 +117,7 @@ namespace Ustagram.API
                 app.UseSwaggerUI();
             }
             
-            app.UseCors("AllowAnyFrontend");
+            app.UseCors("ProductionPolicy");
             app.UseStaticFiles();
             app.UseHttpsRedirection();
             app.UseAuthentication();
