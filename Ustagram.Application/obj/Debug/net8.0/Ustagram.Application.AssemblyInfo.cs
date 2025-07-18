@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ustagram.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe7e4465e01bf7f5423d88bc6dc323028aab0e78")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bfe929f02d86fee00a5af26030be723d74a4a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ustagram.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ustagram.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
