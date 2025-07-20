@@ -23,7 +23,8 @@ public static class InfrastructureDependencyInjection
         public ApplicationDbContext CreateDbContext(string[] args)
         {
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
-            optionsBuilder.UseNpgsql("Host=dpg-dit2o16mcj7s73b3pcg-a;Username=ustagrandb_5yf3_user;Password=EBXwc9mMyhRE41JsC1hA0Bsx6snuj2w;Database=ustagrandb_5yf3;Port=5432;SSL Mode=Require;Trust Server Certificate=true");
+            optionsBuilder.UseNpgsql("Host=ep-restless-violet-aeybfxf5-pooler.c-2.us-east-2.aws.neon.tech;Database=neondb;Username=neondb_owner;Password=npg_yg6qRVHFtfm4;SslMode=Require"
+                );
 
             return new ApplicationDbContext(optionsBuilder.Options);
         }

@@ -12,8 +12,8 @@ using Ustagram.Infrastructure.Persistance;
 namespace Ustagram.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250620105026_natificationaded")]
-    partial class natificationaded
+    [Migration("20250720065221_Hostiingg")]
+    partial class Hostiingg
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
